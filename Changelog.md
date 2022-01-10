@@ -12,7 +12,8 @@
 ## AZLyrics Scraper V3
 ### New features:
 - Added an additional timer for artists with large catalogues.
-- Added a way to scrape genre from AZLyrics webpages.
+- Added a way to scrape 'genre' from AZLyrics webpages.
+- Added an 'id' column to the csv.
 - Pandas dataframe now fills 'NaN' spaces instead of dropping lines with 'NaN'.
 - The output csv file will now be automatically named after the band whose data has been scraped.
 ### Bugfixes:
