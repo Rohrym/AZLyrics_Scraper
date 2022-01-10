@@ -3,7 +3,7 @@ This is a scraper for the lyrics website AZLyrics. With this scraper you can col
 
 ## Notebook use
 
-Running the Juypiter Notebook will only require a link to the artist's page you want to scrape. You can paste that link by replacing the link at the very top of the notebook. 
+Running the Juypiter Notebook will only require a link to the artist's page you want to scrape. You can paste that link by replacing the link at the very top of the Notebook. 
 
 In the scraping code for in the Notebook you can find two timers which artificially slow down the code so you don't get blocked by AZLyrics. You can select either of the two based upon how many songs an artist has in their catalog. By default the Notebook is set to the short timer which allows for around <100 songs to be scraped.
 
