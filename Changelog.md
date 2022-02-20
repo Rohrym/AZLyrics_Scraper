@@ -26,10 +26,10 @@
 ## AZLyrics Scraper V4
 ### New features:
 - Added code blocks to test the `get_songs()` and `get_song_info()` functions.
-- Added some code which will indicate when the scraping and the creation of the csv file is finished.
 ### Bugfixes:
 - Fixed an issue where some songs from the 'other songs' catagory scraped the wrong text.
 ### UI:
+- Added some code which will indicate when the scraping and the creation of the csv file is finished.
 - Added more explaination about the code in markdown and in the codeblocks themselves.
 - The visual display for scraping will no longer automatically be shown. 
 - Added the output of the codeblocks. 
