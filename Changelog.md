@@ -27,7 +27,7 @@
 ### New features:
 - Added code blocks to test the `get_songs()` and `get_song_info()` functions.
 ### Bugfixes:
-- Fixed an issue where some songs from the 'other songs' catagory scraped the wrong text.
+- Fixed an issue where some songs from the 'other songs' category scraped the wrong text.
 ### UI:
 - Added some code which will indicate when the scraping and the creation of the csv file is finished.
 - Added more explaination about the code in markdown and in the codeblocks themselves.
